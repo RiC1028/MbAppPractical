@@ -2,6 +2,7 @@
     <string name="app_name">MbAppPractical</string>
     <string name="rollButton">Roll</string>
     <string name="numbText">Roll Dice</string>
+    <string name="editPlayerName">Type your name here</string>
     <string name="playerName">Player 1</string>
     <string name="updateBtn">Update</string>
 </resources>
